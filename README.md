@@ -1,4 +1,6 @@
-Algoritma & Pemrograman
+===============================
+|   Algoritma & Pemrograman   |
+===============================
 
 
 /*
