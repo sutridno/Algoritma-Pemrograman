@@ -1,6 +1,6 @@
 ========= Algoritma & Pemrograman =========
 ===========================================
 
-========= Sekolah Tinggi Teknik Informatika =========
+Sekolah Tinggi Teknik Informatika
 	Pelita Bangsa
 	    2018
